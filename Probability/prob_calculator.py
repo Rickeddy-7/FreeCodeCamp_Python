@@ -42,7 +42,7 @@ def experiment(hat: Hat, expected_balls=dict, num_balls_drawn=1, num_experiments
 
     return m/num_experiments
 
-# print(copy.__doc__)
+
 # hat1 = Hat(blue=3,red=2,green=6)
 # p1 = experiment(hat=hat1, expected_balls={"blue":2,"green":1}, num_balls_drawn=4, num_experiments=1000)
 # print(p1) # 0.272

@@ -100,7 +100,3 @@ def get_meridiem(start:list, duration:list):
         else: new_mrd = 'AM'
 
     return new_mrd
-
-
-# print(add_time("8:16 PM", "466:02", "tuesday"))
-# "6:18 AM, Monday (20 days later)"
